@@ -12,5 +12,4 @@
 - [ ] Add helper things
 
 ## Example Video
-<video src='out.mp4'>
-
+https://github.com/AnAverageBeing/renderer/raw/main/out.mp4
