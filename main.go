@@ -23,7 +23,7 @@ func main() {
 	config := ffmpeg.NewEncoderConfig()
 	config.Width = frameWidth
 	config.Height = frameHeight
-	config.Output = "out.mp4"
+	config.Output = "out.mov"
 	config.FPS = fps
 
 	encoder, err := ffmpeg.NewEncoder(config)
