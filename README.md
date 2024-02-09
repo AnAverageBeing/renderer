@@ -2,7 +2,7 @@
 
 # Work in Progress!
 
-*(for not using github.com/fogleman/gg for handling 2d graphics)*
+*(for now using github.com/fogleman/gg for handling 2d graphics)*
 
 ## TODO
 - [x] Make a module to help render video using ffmpeg
